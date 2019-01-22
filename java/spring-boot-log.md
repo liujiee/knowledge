@@ -15,8 +15,8 @@ Log4j     |log4j-spring.properties, log4j-spring.xml, log4j.properties, log4j.xm
 Log4j2    |log4j2-spring.xml, log4j2.xml
 JDK(Java Util Logging)| logging.properties
 
- 日志框架|配置文件|head
+ 日志框架|配置文件
 ---|:---:|---|
-Logback|cell|cell
-Log4j|cell|cell
+Logback|cell
+Log4j|cell
 
