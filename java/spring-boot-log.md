@@ -7,7 +7,7 @@
 ````
   logging.path=${user.home}/logs
 ````
-2. 根据不同的日志系统， SpringBoot按照约定规则组织配置文件名加载日志配置文件
+2. 根据不同的日志系统， SpringBoot按照约定规则组织配置文件名加载日志配置文件   
 日志框架               | 配置文件
 -------------------   | ------------------- 
 Logback  			        | logback-spring.xml, logback-spring.groovy, logback.xml, logback.groovy
